@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="joy" type="joy_node" name="wm1joy_node"/>
+  <node pkg="wasp_joy" type="wasp_joy_node" name="wm1wasp_joy_node"/>
+
+</launch>
